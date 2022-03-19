@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:heart: 1. Chips
+2. Ice cream
+3. Chocolate
+:heart:
